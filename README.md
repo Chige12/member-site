@@ -1,3 +1,6 @@
+# ボツになった
+[Nuxtで作り直したのでこちらをみて](https://github.com/kosen14s/member)
+
 # kosen14s-member
 
 kosen14sというSlackで雑談しているグループのメンバー紹介ページを作りました。
